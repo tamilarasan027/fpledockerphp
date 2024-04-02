@@ -1,0 +1,5 @@
+
+git clone https://oauth2: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@github.com/gherotech/opbackend_tf.git   API
+git clone https://oauth2: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@github.com/gherotech/opfe-bo.git        OLD BO
+git clone https://oauth2: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@github.com/gherotech/opfe-aff-nuxt.git  AFF
+git clone https://oauth2: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@github.com/gherotech/template_asia_fe.git   MEMBER
